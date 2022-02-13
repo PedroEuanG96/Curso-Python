@@ -1,2 +1,2 @@
-# Curso-Python
-Curso de python de Launch X
+# KATAS-Curso-Python
+Katas del curso de python de Launch X por Módulo
